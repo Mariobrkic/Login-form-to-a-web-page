@@ -1,0 +1,45 @@
+
+
+#button{
+
+    padding: 15px;
+    width: 100px;
+    color: blue;
+    background-color: lightblue;
+    border: none;
+}
+
+a{
+
+    text-decoration: none;
+      
+}
+
+a:hover{
+background-color: aquamarine;
+
+}
+
+a:focus{
+
+    color:white;
+}
+
+#box{
+
+    background-color: #32a869;
+    margin: auto;
+    width: 370px;
+    padding: 50px;
+}
+
+	
+#text{
+
+    height: 25px;
+    border-radius: 5px;
+    padding: 4px;
+    border: solid thin #aaa;
+    width: 100%;
+}
+

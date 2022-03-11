@@ -1,0 +1,1 @@
+This is short log in form which navigates you to my simple page with links of my portfolio
